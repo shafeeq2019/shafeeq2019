@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shafeeq2019
+- 👋 Hi, I’m Shafeeq
 - 👀 I’m interested in javaScript
 - 💻 I work as a JavaScript developer
 
