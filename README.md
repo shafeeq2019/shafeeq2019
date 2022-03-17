@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafeeq2019
 - 👀 I’m interested in javaScript
-- 🌱 I’m currently learning all about JS
+- 💻 I work as a JavaScript developer
 
 <!---
 shafeeq2019/shafeeq2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
